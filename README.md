@@ -9,8 +9,10 @@ we determine whether the eyes are open or they are closed.</br></br>
 <br>
 Download the CMake and Vs-code 2022 for dlib  , and setup the Vs code by watching any tutorial video in youtube <a href="https://youtu.be/eaEndTeUiSU?si=A59Tbjx774h1Lf0n" >Click Here</a>
 <h3>The working of the project</h3>
-<ul><li>As you can see the<b> above screenshot</b> where the landmarks are detected using the detector.
+<ul><li>As you can see the<b> screenshot </b> where the landmarks are detected using the detector.
 <li>Now we are taking the ratio which is described as <i>'Sum of distances of vertical landmarks divided by twice the distance between horizontal landmarks'</i>.
 <li>Now this ratio is totally dependent on your system which you may configure accordingly for the thresholds of sleeping, drowsy, active.</ul>
+<li>It make sound<i>Alert or Alarm </i> according to the status of the person </ul>
+
 
 <b>By Kaushal</b>
