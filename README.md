@@ -12,7 +12,7 @@ Download the CMake and Vs-code 2022 for dlib  , and setup the Vs code by watchin
 <ul><li>As you can see the<b> screenshot </b> where the landmarks are detected using the detector.
 <li>Now we are taking the ratio which is described as <i>'Sum of distances of vertical landmarks divided by twice the distance between horizontal landmarks'</i>.
 <li>Now this ratio is totally dependent on your system which you may configure accordingly for the thresholds of sleeping, drowsy, active.</ul>
-<li>It make sound<i>Alert or Alarm </i> according to the status of the person </ul>
+<li>It make <i> Alert</i> according to the status of the person </ul>
 
 
 <b>By Kaushal</b>
